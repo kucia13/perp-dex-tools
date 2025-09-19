@@ -142,7 +142,7 @@ python runbot.py --exchange backpack --ticker ETH --quantity 0.1 --take-profit 0
 
 #### Paradex 配置
 
-- `PARADEX_L1_ADDRESS`: L1钱包地址
+- `PARADEX_L2_ADDRESS`: L2钱包地址
 - `PARADEX_L2_PRIVATE_KEY`: L2钱包私钥（点击头像，钱包，“复制paradex私钥”）
 
 ### 命令行参数
